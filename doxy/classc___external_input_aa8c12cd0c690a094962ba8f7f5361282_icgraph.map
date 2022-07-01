@@ -1,0 +1,7 @@
+<map id="c_ExternalInput::ReadInput" name="c_ExternalInput::ReadInput">
+<area shape="rect" id="node1" title=" " alt="" coords="211,111,387,138"/>
+<area shape="rect" id="node2" href="$classfsm___external_input__off__state.html#a2ad9eb2f11a3c7712dcadb655505840a" title=" " alt="" coords="11,5,157,47"/>
+<area shape="rect" id="node3" href="$classfsm___external_input__on__wait__short__state.html#a90e8759c18d77eaad4210680af1dd681" title=" " alt="" coords="7,71,161,112"/>
+<area shape="rect" id="node4" href="$classfsm___external_input__on__wait__long__state.html#a6a5ffdfa7c7635c6a387de633a1c8418" title=" " alt="" coords="10,136,158,177"/>
+<area shape="rect" id="node5" href="$classfsm___external_input__wait__for__off__state.html#ae7caefcec18801509e5b3a493abd907a" title=" " alt="" coords="5,201,163,243"/>
+</map>

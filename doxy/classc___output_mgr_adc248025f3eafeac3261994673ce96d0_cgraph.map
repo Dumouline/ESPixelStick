@@ -1,0 +1,10 @@
+<map id="c_OutputMgr::CreateNewConfig" name="c_OutputMgr::CreateNewConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,209,108"/>
+<area shape="rect" id="node2" href="$classc___output_mgr.html#a1e460ab7d570adbbb53dd0e4c6651f6d" title=" " alt="" coords="257,23,463,49"/>
+<area shape="rect" id="node3" href="$classc___output_mgr.html#a7a2812dee9affa9705178dd19b69e968" title=" " alt="" coords="278,74,442,115"/>
+<area shape="rect" id="node7" href="$classc___output_mgr.html#a63b3162a5ec5fe39859401b4b817b892" title="Save the current configuration data to nvram." alt="" coords="281,148,439,175"/>
+<area shape="rect" id="node4" href="$classc___output_common.html#a23ef97415464d74fe780256b6680bfb1" title="set up the operating environment based on the current config (or defaults)" alt="" coords="539,5,705,32"/>
+<area shape="rect" id="node5" href="$classc___output_common.html#a23228420b2471f0f041c0df0865cc60e" title="get the name for the instantiated driver" alt="" coords="511,56,733,83"/>
+<area shape="rect" id="node6" href="$classc___output_common.html#ad7170942775d16bd0d84c5baf589b51d" title="Have the instance report its type." alt="" coords="511,107,733,133"/>
+<area shape="rect" id="node8" href="$classc___file_mgr.html#ab31af151f08d97736f33aaed0d672552" title=" " alt="" coords="536,181,708,208"/>
+</map>

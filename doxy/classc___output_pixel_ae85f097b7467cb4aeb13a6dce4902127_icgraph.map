@@ -1,0 +1,5 @@
+<map id="c_OutputPixel::updateGammaTable" name="c_OutputPixel::updateGammaTable">
+<area shape="rect" id="node1" title="Generate gamma correction table." alt="" coords="244,23,439,65"/>
+<area shape="rect" id="node2" href="$classc___output_pixel.html#a31a016d8d365e4ffbe17cb4c5696a362" title=" " alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node3" href="$classc___output_pixel.html#aba69c60f370711f72ed8d1166e2bec41" title="Set a new config in the driver." alt="" coords="18,56,183,83"/>
+</map>

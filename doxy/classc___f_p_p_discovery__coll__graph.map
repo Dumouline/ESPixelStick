@@ -1,0 +1,15 @@
+<map id="c_FPPDiscovery" name="c_FPPDiscovery">
+<area shape="rect" id="node1" title=" " alt="" coords="717,23,835,50"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_file.html" title=" " alt="" coords="329,274,512,301"/>
+<area shape="rect" id="node5" href="$classfsm___play_file__state.html" title=" " alt="" coords="709,321,843,347"/>
+<area shape="rect" id="node3" href="$classc___input_f_p_p_remote_play_item.html" title=" " alt="" coords="5,182,192,209"/>
+<area shape="rect" id="node4" href="$classfsm___play_file__state___idle.html" title=" " alt="" coords="892,381,1053,407"/>
+<area shape="rect" id="node6" href="$classfsm___play_file__state___starting.html" title=" " alt="" coords="906,196,1039,237"/>
+<area shape="rect" id="node7" href="$classfsm___play_file__state___playing_file.html" title=" " alt="" coords="906,300,1039,341"/>
+<area shape="rect" id="node8" href="$classfsm___play_file__state___stopping.html" title=" " alt="" coords="906,461,1039,503"/>
+<area shape="rect" id="node9" href="$classfsm___play_file__state___error.html" title=" " alt="" coords="906,105,1039,147"/>
+<area shape="rect" id="node10" href="$structc___input_f_p_p_remote_play_file_1_1_frame_control__t.html" title=" " alt="" coords="7,233,190,275"/>
+<area shape="rect" id="node11" href="$structc___input_f_p_p_remote_play_file_1_1_sync_control__t.html" title=" " alt="" coords="7,299,190,340"/>
+<area shape="rect" id="node12" href="$struct_f_s_e_q_parsed_range_entry.html" title=" " alt="" coords="17,365,181,391"/>
+<area shape="rect" id="node13" href="$structc___f_p_p_discovery_1_1_multi_sync_stats__t.html" title=" " alt="" coords="329,5,512,47"/>
+</map>

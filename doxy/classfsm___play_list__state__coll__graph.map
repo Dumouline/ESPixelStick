@@ -1,0 +1,10 @@
+<map id="fsm_PlayList_state" name="fsm_PlayList_state">
+<area shape="rect" id="node1" title=" " alt="" coords="5,220,140,247"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_list.html" title=" " alt="" coords="585,285,768,312"/>
+<area shape="rect" id="node4" href="$classfsm___play_list__state___wait_for_start.html" title=" " alt="" coords="215,95,350,137"/>
+<area shape="rect" id="node5" href="$classfsm___play_list__state___idle.html" title=" " alt="" coords="201,161,364,188"/>
+<area shape="rect" id="node6" href="$classfsm___play_list__state___playing_file.html" title=" " alt="" coords="215,213,350,254"/>
+<area shape="rect" id="node7" href="$classfsm___play_list__state___playing_effect.html" title=" " alt="" coords="215,278,350,319"/>
+<area shape="rect" id="node8" href="$classfsm___play_list__state___paused.html" title=" " alt="" coords="215,343,350,385"/>
+<area shape="rect" id="node3" href="$classc___input_f_p_p_remote_play_item.html" title=" " alt="" coords="189,475,376,501"/>
+</map>

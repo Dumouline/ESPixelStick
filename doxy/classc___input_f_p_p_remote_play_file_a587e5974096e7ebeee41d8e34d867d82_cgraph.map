@@ -1,0 +1,8 @@
+<map id="c_InputFPPRemotePlayFile::ReadFile" name="c_InputFPPRemotePlayFile::ReadFile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,188,115"/>
+<area shape="rect" id="node2" href="$classc___output_mgr.html#aec62685e8fb4eff73bfefd3ed5321b01" title="Get the address of the buffer into which the E1.31 handler will stuff data." alt="" coords="240,5,447,32"/>
+<area shape="rect" id="node3" href="$classc___output_mgr.html#ae5627db513cd91ad9863c0dc32412916" title="Get the size (in intensities) of the buffer into which the E1.31 handler will stuff data." alt="" coords="236,56,451,83"/>
+<area shape="rect" id="node4" href="$classc___file_mgr.html#a52b312d37c19138ae3f6397e3aa919f4" title=" " alt="" coords="267,107,419,133"/>
+<area shape="rect" id="node6" href="$classc___output_mgr.html#a388ff6a0c279a65382b71528e76ae260" title=" " alt="" coords="240,157,447,184"/>
+<area shape="rect" id="node5" href="$classc___file_mgr.html#a5744b69d4ab94abb4a8839fa295153db" title=" " alt="" coords="499,99,668,141"/>
+</map>

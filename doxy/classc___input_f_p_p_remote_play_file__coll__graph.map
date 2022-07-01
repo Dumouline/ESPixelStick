@@ -1,0 +1,13 @@
+<map id="c_InputFPPRemotePlayFile" name="c_InputFPPRemotePlayFile">
+<area shape="rect" id="node1" title=" " alt="" coords="329,179,512,205"/>
+<area shape="rect" id="node4" href="$classfsm___play_file__state.html" title=" " alt="" coords="669,208,803,235"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_item.html" title=" " alt="" coords="5,87,192,113"/>
+<area shape="rect" id="node3" href="$classfsm___play_file__state___idle.html" title=" " alt="" coords="852,5,1013,32"/>
+<area shape="rect" id="node5" href="$classfsm___play_file__state___starting.html" title=" " alt="" coords="866,85,999,126"/>
+<area shape="rect" id="node6" href="$classfsm___play_file__state___playing_file.html" title=" " alt="" coords="866,186,999,227"/>
+<area shape="rect" id="node7" href="$classfsm___play_file__state___stopping.html" title=" " alt="" coords="866,263,999,305"/>
+<area shape="rect" id="node8" href="$classfsm___play_file__state___error.html" title=" " alt="" coords="866,351,999,393"/>
+<area shape="rect" id="node9" href="$structc___input_f_p_p_remote_play_file_1_1_frame_control__t.html" title=" " alt="" coords="7,138,190,179"/>
+<area shape="rect" id="node10" href="$structc___input_f_p_p_remote_play_file_1_1_sync_control__t.html" title=" " alt="" coords="7,203,190,245"/>
+<area shape="rect" id="node11" href="$struct_f_s_e_q_parsed_range_entry.html" title=" " alt="" coords="17,269,181,296"/>
+</map>

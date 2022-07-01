@@ -1,0 +1,6 @@
+<map id="c_OutputPixel::StartNewFrame" name="c_OutputPixel::StartNewFrame">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,207,105"/>
+<area shape="rect" id="node2" href="$classc___output_common.html#a83f1ea04a95de1af5ad0e5a5130bdcad" title="Get the address of the buffer into which the E1.31 handler will stuff data." alt="" coords="260,5,448,47"/>
+<area shape="rect" id="node3" href="$classc___output_pixel.html#aa36aa9a958416f5b47fc4eba522955ad" title=" " alt="" coords="289,71,419,112"/>
+<area shape="rect" id="node4" href="$classc___output_common.html#ae4db3605be43e71dbd0b4f929b69aa85" title=" " alt="" coords="255,136,453,177"/>
+</map>

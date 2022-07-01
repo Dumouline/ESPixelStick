@@ -1,0 +1,5 @@
+<map id="c_OutputCommon::GetBufferAddress" name="c_OutputCommon::GetBufferAddress">
+<area shape="rect" id="node1" title="Get the address of the buffer into which the E1.31 handler will stuff data." alt="" coords="255,23,443,65"/>
+<area shape="rect" id="node2" href="$classc___output_common.html#adc129a5642920dc4d36e3e717aaf1f3c" title=" " alt="" coords="7,5,205,32"/>
+<area shape="rect" id="node3" href="$classc___output_pixel.html#a1c45edd152d1beef828cf66e4df2bb00" title=" " alt="" coords="5,56,207,83"/>
+</map>
